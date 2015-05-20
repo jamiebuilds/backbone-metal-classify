@@ -1,0 +1,23 @@
+{
+  "name": "backbone-metal-classify",
+  "version": "1.0.0",
+  "description": "Classify objects using the backbone-metal class",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thejameskyle/backbone-metal-classify.git"
+  },
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thejameskyle/backbone-metal-classify/issues"
+  },
+  "homepage": "https://github.com/thejameskyle/backbone-metal-classify",
+  "dependencies": {
+    "backbone-metal": "^0.5.0",
+    "underscore": "^1.8.3"
+  }
+}
