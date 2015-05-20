@@ -1,6 +1,6 @@
 {
   "name": "backbone-metal-classify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Classify objects using the backbone-metal class",
   "main": "index.js",
   "scripts": {
