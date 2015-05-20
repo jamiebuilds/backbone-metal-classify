@@ -3,7 +3,7 @@ var _ = require('underscore');
 
 module.exports = function classify(target) {
   if (target.prototype instanceof Metal.Class) {
-    return;
+    return target;
   }
 
   return Metal.Class.extend(
