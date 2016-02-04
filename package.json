@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/thejameskyle/backbone-metal-classify",
   "dependencies": {
-    "backbone-metal": "^0.5.0",
+    "backbone-metal": "^0.6.2",
     "underscore": "^1.8.3"
   }
 }
